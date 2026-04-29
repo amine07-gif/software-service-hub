@@ -8,6 +8,7 @@ Features:
 + Website development (front-end & back-end) 
 + Custom Windows software development 
 + Project management interface 
-+ Secure payment integration 
 + Software installation and official licensing support
++ Secure payment integration 
+
 
