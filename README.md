@@ -25,3 +25,5 @@ Software Windows based:
 
 Website with html and css:
 <img width="960" height="540" alt="678928405_1688127152319816_7948184088665606069_n" src="https://github.com/user-attachments/assets/d59ee9c4-2d0e-4bc5-a4a0-fd88f44524b6" />
+
+Files will be recieved using Google Drive.
