@@ -14,5 +14,6 @@ Features:
 + Secure payment integration 
 
 Contacts :
-
+Email: tjouda13@gmail.com
+Telegram & WhatsApp: 0772453916
 
